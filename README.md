@@ -1,3 +1,5 @@
+ЗАДАНИЕ 3!!
+https://www.figma.com/design/8AtU7Lpi3pGcRHLcpBv2wp/Untitled?node-id=1-159&t=PuWhPQCZhXP4hzzs-0
 Задание 5!!
 Вывести покупателей с количеством осуществленных покупок
 
